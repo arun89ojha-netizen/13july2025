@@ -7,7 +7,7 @@ public class Test1 {
 	@Test
 	public void a() {
 		System.out.println("hello maven");
-		webdriver
+		System.out.println("hello arun");
 	}
 
 }
